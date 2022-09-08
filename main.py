@@ -138,7 +138,7 @@ def send_multi_message(msg):
 def send_multi_message(msg):
     bot.reply_to(
         msg,
-        "<b>Non Muslim</b> \n<u>Set A </u> \nNasi Lemak \nFried Chicken Wing \nSambal Telur Goreng \nSambal Chili Sauce Retort \nSavur Lodeh \n Sop Opor Ayam \n<u>Set B </u> \nBak Kut Teh Set \nSteamed Rice \nLor Bak \nLor Tau Pok \nBraised Salted Vegetables \nBak Kut Teh Soup \nGreen Bean with Pumpkin Dessert \n\n<b>Vegetarian Chinese</b> \nSteamed Rice (80% white rice+20% brown rice) \nSweet and Sour Mock Fish \nTau Kwa Sambal \nSou Peh Chye with Oyster Sauce")
+        "<b>Non Muslim</b> \n<u>Set A </u> \nNasi Lemak \nBaked Chicken Wing \nSambal Telur Goreng \nSambal Chili Sauce Retort \nPulau Hitam \nSayur Lodeh \nPulot Hitam \n\n<b>Vegetarian Chinese</b> \nSteamed Rice (80% white rice+20% brown rice) \nSweet and Sour Mock Fish \nTau Kwa Sambal \nSou Peh Chye with Oyster Sauce")
 
 
 @bot.message_handler(
