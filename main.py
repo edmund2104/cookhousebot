@@ -36,8 +36,9 @@ def send_multi_message(msg):
 @bot.message_handler(commands=["mondaylunch", "Mondaylunch", "MondayLunch"])
 def send_multi_message(msg):
     bot.reply_to(
+
         msg,
-        "<b>Non Muslim</b> \n<u>Set A (Outration Set)</u> \n<u>Nasi Lemak Set</u> \nNasi Lemak Rice (80% white rice+20% brown rice) \nBaked Chicken Wing \nFried Fish Cake \nSambal Telur Goreng \nSambal Chilli Sauce Retort \nStir Fried Chye Sim with Bean Sprout \nRed Bean Sago \n\n<b>Vegetarian Chinese</b> \nSteamed Rice (80% white rice+20% brown rice) \nSambal Mock Chicken \nHot and Spicy Tau Hoo \nSauteed French Bean with Chinese Mushroom")
+        "<b>Non Muslim</b> \n<u>Set A (Outration Set)</u> \n<u> Kam Heong Chicken Rice Set</u> \nSteamed Rice (80% white rice+20% brown rice) \nKam Heong Chicken \nFish Cake \nSambal Telur Goreng \nSambal Chilli Sauce Retort \nLong Bean with Dried Shrimp \nChicken Soup with Hairy Gourd and Fungus \n\n<b>Lor Mee Set</b> \nYellow Noodles \nKranji Lor Mee Gravy CFS \nLor Egg \nBattered Fish \nNgoh Hiang \nBean Sprout \nPulot Terigun \n<b>Vegetarian Chinese</b> \nSteamed Rice (80% white rice+20% brown rice) \nSambal Mock Chicken \nHot and Spicy Tau Hoo \nSauteed French Bean with Chinese Mushroom")
 
 
 @bot.message_handler(
