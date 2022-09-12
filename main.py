@@ -54,7 +54,7 @@ def send_multi_message(msg):
 ])
 def send_multi_message(msg):
     bot.reply_to(
-        msg, "<b>Non Muslim</b> \nMee Tai Mak Goreng /n Mee Tai Mak /nPrawn meat /negg /nbean sprout /nButter Cream Roll
+        msg, "<b>Non Muslim</b> \nMee Tai Mak Goreng \nMee Tai Mak \nPrawn meat \negg \nbean sprout \nButter Cream Roll")
 
 
 @bot.message_handler(commands=["tuesdaylunch", "Tuesdaylunch", "TuesdayLunch"])
@@ -114,7 +114,7 @@ def send_multi_message(msg):
 def send_multi_message(msg):
     bot.reply_to(
         msg,
-        "<b>Non Muslim</b> \n<u>Set A</u> \nGoing Green Special Lunch - Lu "Dou" Fan Set \nRice \nLu "Dou" \Braised Tau Kwa \nButtered Broccoli \nButtered Carrot \nButtered Corn \Red Dates Chicken Broth \n\n<u>Set B</u> \nLaksa Set \nLaksa Bee Hoon \nTau Pok \nFried Chicken Wing \nBean Sprout \nHard Boiled Egg \nFish Cake \nSago Gula Melaka with Sweet Potatoes  \n\n<b>Vegetarian Chinese</b> \nVegetarian Fried Rice (80% White and 20% Brown Rice) \nVegetarian Crispy Chicken \nVegetarian Chilli Fish Balls \nStir Fried Broccoli with Chinese Mushroom")
+        "<b>Non Muslim</b> \n<u>Set A</u> \nGoing Green Special Lunch - Lu Dou Fan Set \nRice \nLu Dou \nBraised Tau Kwa \nButtered Broccoli \nButtered Carrot \nButtered Corn \nRed Dates Chicken Broth \n\n<u>Set B</u> \nLaksa Set \nLaksa Bee Hoon \nTau Pok \nFried Chicken Wing \nBean Sprout \nHard Boiled Egg \nFish Cake \nSago Gula Melaka with Sweet Potatoes \n\n<b>Vegetarian Chinese</b> \nVegetarian Fried Rice (80% White and 20% Brown Rice) \nVegetarian Crispy Chicken \nVegetarian Chilli Fish Balls \nStir Fried Broccoli with Chinese Mushroom")
 
 
 @bot.message_handler(commands=[
@@ -150,4 +150,5 @@ def send_multi_message(msg):
 
 
 bot.polling()
+
 
