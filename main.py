@@ -61,7 +61,7 @@ def send_multi_message(msg):
 def send_multi_message(msg):
     bot.reply_to(
         msg,
-        "<b>Non Muslim</b> \n<u>Set A (Outration Set)</u> \nPandan Rice with Chicken Manchrian Set \nPandan Rice \nChicken Opor \nStir fried pork with Thai Basil \nCabbage with Minced Chicken Lemak \nOld cucumber Soup \n<b>Set B</u> \nGinger Flower Braised Chicken Noodle Set \nIpoh Hor Fun \nGinger Flower Soya Base Gravy \nBaked Garlic Chicken \nPork Slice \nSou Peh Chye with Abalone Mushroom and Wolfberry \nLemon Barley Dessert \n<b>Vegetarian Chinese</b> \nVegetarian Mee Goreng \nMock Fish Curry \nFried Samosa Curry \nKang Kong with Chilli")
+        "<b>Non Muslim</b> \n<u>Set A (Outration Set)</u> \nPandan Rice with Chicken Manchrian Set \nPandan Rice \nChicken Opor \nStir fried pork with Thai Basil \nCabbage with Minced Chicken Lemak \nOld cucumber Soup \n<b>Set B</b> \nGinger Flower Braised Chicken Noodle Set \nIpoh Hor Fun \nGinger Flower Soya Base Gravy \nBaked Garlic Chicken \nPork Slice \nSou Peh Chye with Abalone Mushroom and Wolfberry \nLemon Barley Dessert \n<b>Vegetarian Chinese</b> \nVegetarian Mee Goreng \nMock Fish Curry \nFried Samosa Curry \nKang Kong with Chilli")
 
 
 @bot.message_handler(
