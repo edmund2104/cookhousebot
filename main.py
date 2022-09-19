@@ -54,7 +54,7 @@ def send_multi_message(msg):
 ])
 def send_multi_message(msg):
     bot.reply_to(
-        msg, "<b>Non Muslim</b> \nFried Mee \nYellow Noodles \nChicken Slice \nEgg \nChye Sim \nBean sprout \nCinnamon Danish
+        msg, "<b>Non Muslim</b> \nFried Mee \nYellow Noodles \nChicken Slice \nEgg \nChye Sim \nBean sprout \nCinnamon Danish")
 
 
 @bot.message_handler(commands=["tuesdaylunch", "Tuesdaylunch", "TuesdayLunch"])
