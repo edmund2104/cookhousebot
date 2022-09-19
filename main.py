@@ -37,7 +37,7 @@ def send_multi_message(msg):
 def send_multi_message(msg):
     bot.reply_to(
         msg,
-        "<b>Non Muslim</b> \n<u>Set A (Outration Set)</u> \n<u>Ayam Goreng Berempah Set \nNasi Kerabu \nAyam Goreng Berempah \nIkan Bilis with Large Onion Sambal \nSavor Lodeh \nSop Ayam Bawang \n\nAyam Mee Soto Set \nYellow Noodle \nChicken Wing \nPotato Cake \nHardboiled Egg \nBeansprout \nSweet Potato and Ginger Dessert \n\n<b>Vegetarian Chinese</b> \nSteamed Rice (80% white rice+20% brown rice) \nSambal Mock Chicken \nHot and Spicy Tau Hoo \nSauteed French Bean with Chinese Mushroom")
+        "<b>Non Muslim</b> \n<u>Set A (Outration Set)</u> \nAyam Goreng Berempah Set \nNasi Kerabu \nAyam Goreng Berempah \nIkan Bilis with Large Onion Sambal \nSavor Lodeh \nSop Ayam Bawang \n\nAyam Mee Soto Set \nYellow Noodle \nChicken Wing \nPotato Cake \nHardboiled Egg \nBeansprout \nSweet Potato and Ginger Dessert \n\n<b>Vegetarian Chinese</b> \nSteamed Rice (80% white rice+20% brown rice) \nSambal Mock Chicken \nHot and Spicy Tau Hoo \nSauteed French Bean with Chinese Mushroom")
 
 
 @bot.message_handler(
@@ -87,7 +87,7 @@ def send_multi_message(msg):
 def send_multi_message(msg):
     bot.reply_to(
         msg,
-        "<b>Non Muslim</b> \n<u>Set A </u> \nBaked Black Pepper Chicken with Fried Noodle Set \nFried Noodle \nBake Black Pepper Chicken \nWantan \nStir Fried Cauliflower with Green Pepper \nChicken Soup with Hairy Gourd and Fungus  \n\n<u>Set B</u> \nBak Kut Teh Set \nSteamed Rice \nLor Bak or Lor Chicken \nLor Tau Pok \nBraised Salted Vegetables \nBak Kut Teh Soup \nSago Gula Melaka with Sweet Potatoes \n\n<b>Vegetarian Chinese</b> \nSteamed Rice (80% white rice+20% brown rice) \Mock Char Siew \nStir Fried Vegetarian Golden Slice with Mushroom \nSou Peh Chye with Oyster Sauce")
+        "<b>Non Muslim</b> \n<u>Set A</u> \nBaked Black Pepper Chicken with Fried Noodle Set \nFried Noodle \nBake Black Pepper Chicken \nWantan \nStir Fried Cauliflower with Green Pepper \nChicken Soup with Hairy Gourd and Fungus  \n\n<u>Set B</u> \nBak Kut Teh Set \nSteamed Rice \nLor Bak or Lor Chicken \nLor Tau Pok \nBraised Salted Vegetables \nBak Kut Teh Soup \nSago Gula Melaka with Sweet Potatoes \n\n<b>Vegetarian Chinese</b> \nSteamed Rice (80% white rice+20% brown rice) \Mock Char Siew \nStir Fried Vegetarian Golden Slice with Mushroom \nSou Peh Chye with Oyster Sauce")
 
 
 @bot.message_handler(commands=[
@@ -96,7 +96,7 @@ def send_multi_message(msg):
 def send_multi_message(msg):
     bot.reply_to(
         msg,
-        "<b>Non Muslim</b> \nKung Poh Chicken Set \nPineapple Rice \nBaked Chicken with Kung Poh Sauce \nStir Fried Pork with Spring Onion \nChye Sim with Oyster Sauce\n\n<b>Vegetarian Chinese</b> \nSteamed Rice (80% white rice+20% brown rice) \nBraised Mock Duck with Black Vinegar \nBraised Tau Kwa with Mock Char Siew \nBraised Hairy Gourd Lemak")
+        "<b>Non Muslim</b> \nKung Poh Chicken Set \nPineapple Rice \nBaked Chicken with Kung Poh Sauce \nStir Fried Pork with Spring Onion \nChye Sim with Oyster Sauce \n\n<b>Vegetarian Chinese</b> \nSteamed Rice (80% white rice+20% brown rice) \nBraised Mock Duck with Black Vinegar \nBraised Tau Kwa with Mock Char Siew \nBraised Hairy Gourd Lemak")
 
 
 @bot.message_handler(commands=[
@@ -106,7 +106,7 @@ def send_multi_message(msg):
 def send_multi_message(msg):
     bot.reply_to(
         msg,
-        "<b>Non Muslim</b> \nJavanese Fried Noodle \nEgg Noodle \nChicken slice \nEgg \nCarrot \nCabbage \nBean sprout \n Crab Dumplings \n\n<b>Vegetarian Chinese</b> \nHamburger Bun \nMargarine \nPandan Pao \nRed Bean Pao \nVegetarian Ham")
+        "<b>Non Muslim</b> \nJavanese Fried Noodle \nEgg Noodle \nChicken slice \nEgg \nCarrot \nCabbage \nBean sprout \nCrab Dumplings \n\n<b>Vegetarian Chinese</b> \nHamburger Bun \nMargarine \nPandan Pao \nRed Bean Pao \nVegetarian Ham")
 
 
 @bot.message_handler(
@@ -131,7 +131,7 @@ def send_multi_message(msg):
 def send_multi_message(msg):
     bot.reply_to(
         msg,
-"<b>Non Muslim</b> \nUCMZ \nHamburger Bun \nMagarine \nBreaded Chicken Pattie \nSausage Roll \nPain Au Raisin \n\n<b>Vegetarian Chinese</b> \nFried Macaroni \nVegetarian Spring Rolls")
+"<b>Non Muslim</b> \nHamburger Bun \nMagarine \nBreaded Chicken Pattie \nSausage Roll \nPain Au Raisin \n\n<b>Vegetarian Chinese</b> \nFried Macaroni \nVegetarian Spring Rolls")
 
 
 @bot.message_handler(commands=["fridaylunch", "Fridaylunch", "FridayLunch"])
