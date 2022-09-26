@@ -37,7 +37,19 @@ def send_multi_message(msg):
 def send_multi_message(msg):
     bot.reply_to(
         msg,
-        "<b>Non Muslim</b> \n<u>Set A (Outration Set)</u> \nAyam Goreng Berempah Set \nNasi Kerabu \nAyam Goreng Berempah \nIkan Bilis with Large Onion Sambal \nSavor Lodeh \nSop Ayam Bawang \n\nAyam Mee Soto Set \nYellow Noodle \nChicken Wing \nPotato Cake \nHardboiled Egg \nBeansprout \nSweet Potato and Ginger Dessert \n\n<b>Vegetarian Chinese</b> \nSteamed Rice (80% white rice+20% brown rice) \nSambal Mock Chicken \nHot and Spicy Tau Hoo \nSauteed French Bean with Chinese Mushroom")
+        "<b>Non Muslim</b> \n<u>Set A (Outration Set)</u> \nChicken Bolognaise Set 
+\nChicken Bolognaise 
+\nBaked Chicken Chop 
+\nButtered Mixed Vegetables
+ \nCream of Potato Soup
+ \n\nSET B
+ \nPlain Porridge 
+\nSteamed Chicken with Tau See
+ \nStir Fried Pork with Green Pepper
+ \nTraditional Egg Fu-Yong
+ \nHairy Gourd with Dried Shrimp
+ \nBo Bo Kachang 
+\n\n<b>Vegetarian Chinese</b> \nSteamed Rice (80% white rice+20% brown rice) \nSambal Mock Chicken \nHot and Spicy Tau Hoo \nSauteed French Bean with Chinese Mushroom")
 
 
 @bot.message_handler(
